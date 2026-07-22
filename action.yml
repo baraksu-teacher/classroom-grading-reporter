@@ -1,5 +1,8 @@
 name: "GitHub Classroom Results handler"
 description: "Integrate your CS class with GitHub using GitHub Classroom"
+author: "baraksu-class-2026"
+color: orange
+icon: book-open
 inputs:
   token:
     description: >
