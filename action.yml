@@ -1,4 +1,4 @@
-name: "GitHub Classroom Autograding Results handler"
+name: "GitHub Classroom classroom Results handler"
 description: "Integrate your CS class with GitHub using GitHub Classroom"
 inputs:
   token:
@@ -13,5 +13,5 @@ inputs:
     required: true
 
 runs:
-  using: "node20"
+  using: "node24"
   main: "dist/main.js"
